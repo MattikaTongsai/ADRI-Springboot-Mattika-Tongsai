@@ -10,7 +10,7 @@ Answer The main diffrence between SQL and NoSQL databases is the way they store 
 
 ## Q3.
 
-Answer Git is powerful tool in a version of control system for managing and collaborating on projects that allows users to work, share and change in computer files.
+Answer Git is a widely used version control system that helps developers and teams collaborate on projects. With Git, users can store multiple versions of their project, share their work with teams, and keep track of changes made by different members.
 
 ## Q4.
 
